@@ -2,7 +2,7 @@
 
 Merge, split, reorder, rotate, and remove PDF pages in the browser. Files are processed on your device and never uploaded, and the app works offline after the first visit.
 
-**Live:** _add URL after deploy_
+**Live:** [pdf.ogulcancevik.com](https://pdf.ogulcancevik.com)
 
 ![Organizing pages from two PDFs](docs/organize.png)
 
